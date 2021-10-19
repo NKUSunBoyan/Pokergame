@@ -1,4 +1,4 @@
-# Tractor-GoldenBoom-Pockergame
+# Pokergame
 A homework of Nankai University,May,2021
 -------------------------------------------------------------------------------------------------------------------------------
 May.4th.2021 17:00
